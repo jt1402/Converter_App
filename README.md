@@ -1,16 +1,17 @@
-# curr_app
+Currency Converter
 
-A new Flutter project.
+A simple currency converter app built with Flutter.
+Features
 
-## Getting Started
+    Convert currency from one currency to another based on the provided exchange rates.
+    Input the amount to be converted and select the source and target currencies.
+    View the converted amount in the target currency.
+    Supports multiple currencies, including USD, GBP, RUB, CNH, UZS, EUR, and KRW.
+    
+Usage
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+    Enter the amount you want to convert in the provided text field.
+    Select the source currency from the dropdown menu.
+    Select the target currency from the second dropdown menu.
+    Tap the "Convert" button to perform the currency conversion.
+    View the converted amount in the target currency below the button.
